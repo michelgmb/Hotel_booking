@@ -1,0 +1,9 @@
+
+1
+describe the scenario use noun as class
+verb as method
+User(class) can see(method) a list of hotel(class)
+User can book(method) a hotel
+user can get a reservation ticket(class)
+
+2 write program main loop
